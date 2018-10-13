@@ -1,0 +1,21 @@
+.container {
+    margin: 10px;
+}
+
+.card {
+    width: 450px;
+}
+
+.btn {
+    margin: 3px;
+}
+
+.message-form {
+    display: flex;
+    flex-direction: column;
+
+}
+
+.message-form a {
+    align-self: flex-end;
+}
